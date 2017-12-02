@@ -1,0 +1,11 @@
+C:\Users\tadriano\source\repos\standard.api\standard.api\bin\Debug\netcoreapp1.1\standard.api.deps.json
+C:\Users\tadriano\source\repos\standard.api\standard.api\bin\Debug\netcoreapp1.1\standard.api.runtimeconfig.json
+C:\Users\tadriano\source\repos\standard.api\standard.api\bin\Debug\netcoreapp1.1\standard.api.runtimeconfig.dev.json
+C:\Users\tadriano\source\repos\standard.api\standard.api\bin\Debug\netcoreapp1.1\standard.api.dll
+C:\Users\tadriano\source\repos\standard.api\standard.api\obj\Debug\netcoreapp1.1\standard.api.csprojResolveAssemblyReference.cache
+C:\Users\tadriano\source\repos\standard.api\standard.api\obj\Debug\netcoreapp1.1\standard.api.csproj.CoreCompileInputs.cache
+C:\Users\tadriano\source\repos\standard.api\standard.api\obj\Debug\netcoreapp1.1\standard.api.AssemblyInfoInputs.cache
+C:\Users\tadriano\source\repos\standard.api\standard.api\obj\Debug\netcoreapp1.1\standard.api.AssemblyInfo.cs
+C:\Users\tadriano\source\repos\standard.api\standard.api\bin\Debug\netcoreapp1.1\standard.api.pdb
+C:\Users\tadriano\source\repos\standard.api\standard.api\obj\Debug\netcoreapp1.1\standard.api.dll
+C:\Users\tadriano\source\repos\standard.api\standard.api\obj\Debug\netcoreapp1.1\standard.api.pdb
